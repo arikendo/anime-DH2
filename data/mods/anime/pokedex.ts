@@ -1,5 +1,5 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
-	testmon: {
+	dio: {
 		num: 1001,
 		name: "Dio",
 		types: ["Dark"],
