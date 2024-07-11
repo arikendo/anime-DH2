@@ -1,5 +1,5 @@
-export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
+export const Pokedex: { [k: string]: ModdedSpeciesData; } = {
 	testmon: {
-		tier: "Anime",
+		tier: "anime",
 	}
 };
