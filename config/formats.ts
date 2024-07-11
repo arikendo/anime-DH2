@@ -21,10 +21,27 @@ export const Formats: FormatList = [
 	///////////////////////////////////////////////////////////////
 	///////////////////// Gen 9 Pet Mods //////////////////////////
 	///////////////////////////////////////////////////////////////
+	
 	{
 		section: "Gen 9 Pet Mods",
 		column: 1,
 		// name: "gen9petmods",
+	},
+	{
+		name: "[Gen 9] Anime",
+		desc: `Anime`,
+		mod: 'anime',
+		onValidateTeam(team, format) {
+			/**@type {{[k: string]: true}} */
+			let speciesTable = {};
+			for (const set of team) {
+				let template = this.dex.species.get(set.species);
+				if (speciesTable[template.id]) {
+					return ["You are limited to one of each Pokémon by Species Clause (except for different formes). ", "You have more than one " + template.id + "."];
+				}
+				speciesTable[template.id] = true;
+			}
+		},
 	},
 	{
 		name: "[Gen 9] Alternatium EX",
