@@ -34,7 +34,7 @@ export const Formats: FormatList = [
 		mod: 'anime',
 		banlist: ['All Pokemon', 'Baton Pass'],
 		unbanlist: [
-				'Testmon',
+				'Dio',
 		]
 	},
 	///////////////////////////////////////////////////////////////
