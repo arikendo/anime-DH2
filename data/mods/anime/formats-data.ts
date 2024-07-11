@@ -1,4 +1,4 @@
-export const Pokedex: { [k: string]: ModdedSpeciesFormatsData; } = {
+export const FormatsData: { [k: string]: ModdedSpeciesFormatsData; } = {
 	testmon: {
 		tier: "anime",
 	}
