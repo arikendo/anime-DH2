@@ -1,6 +1,6 @@
 export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 	dio: {
-		num: 1001,
+		num: -40,
 		name: "Dio",
 		types: ["Dark"],
 		genderRatio: {M: 1.0, F: 0.0},
