@@ -1,14 +1,14 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	testmon: {
 		num: 1001,
-		name: "Testmon",
-		types: ["Normal"],
-		genderRatio: {M: 0.875, F: 0.125},
-		baseStats: {hp: 999, atk: 999, def: 99, spa: 99, spd: 99, spe: 999},
-		abilities: {0: "Overflow"},
+		name: "Dio",
+		types: ["Dark"],
+		genderRatio: {M: 1.0, F: 0.0},
+		baseStats: {hp: 999, atk: 999, def: 999, spa: 999, spd: 999, spe: 999},
+		abilities: {0: "Intimidate"},
 		heightm: 1.7,
 		weightkg: 52.2,
-		color: "Purple",
+		color: "Yellow",
 		eggGroups: ["Monster", "Dragon"],
 	},
 };
