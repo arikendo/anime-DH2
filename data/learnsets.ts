@@ -29,14 +29,6 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			watergun: ["3L1"],
 		},
 	},
-	testmon: {
-		learnset: {
-			doubleedge: ["3L1"],
-			earthquake: ["3L1"],
-			fissure: ["3L1"],
-			fly: ["3L1"],
-		},
-	},
 	bulbasaur: {
 		learnset: {
 			acidspray: ["9M"],

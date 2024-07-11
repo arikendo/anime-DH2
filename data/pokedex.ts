@@ -18442,18 +18442,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		tags: ["Mythical"],
 		eggGroups: ["Undiscovered"],
 	},
-	testmon: {
-		num: 1026,
-		name: "Testmon",
-		types: ["Normal"],
-		baseStats: {hp: 999, atk: 999, def: 999, spa: 999, spd: 999, spe: 999},
-		abilities: {0: "Intimidate"},
-		heightm: 0.3,
-		weightkg: 0.3,
-		color: "Purple",
-		tags: ["Mythical"],
-		eggGroups: ["Undiscovered"],
-	},
 	missingno: {
 		num: 0,
 		name: "MissingNo.",
