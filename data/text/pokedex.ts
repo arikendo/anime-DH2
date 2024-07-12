@@ -3548,9 +3548,6 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	missingno: {
 		name: "MissingNo.",
 	},
-	dio: {
-		name: "Dio",
-	},
 	syclar: {
 		name: "Syclar",
 	},
