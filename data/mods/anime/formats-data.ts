@@ -7,5 +7,17 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	},
 	luffy: {
 		tier: "anime"
-	}
+	},
+	nicorobin: {
+		tier: "anime"
+	},
+	chopper: {
+		tier: "anime"
+	},
+	zoro: {
+		tier: "anime"
+	},
+	nami: {
+		tier: "anime"
+	},
 };

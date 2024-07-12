@@ -36,7 +36,11 @@ export const Formats: FormatList = [
 		unbanlist: [
 				'Dio',
 				'Killua',
-				'Luffy'
+				'Luffy',
+				'Chopper',
+				'Nico Robin',
+				'Roronoa Zoro',
+				'Nami'
 		]
 	},
 	///////////////////////////////////////////////////////////////
