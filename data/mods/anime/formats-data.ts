@@ -5,4 +5,7 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	killua: {
 		tier: "anime",
 	},
+	luffy: {
+		tier: "anime"
+	}
 };

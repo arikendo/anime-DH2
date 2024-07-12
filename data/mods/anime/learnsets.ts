@@ -11,5 +11,10 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			doubleshock: ["9L1"],
 			nuzzle: ["9L1"]	
 		}
+	},
+	luffy: {
+		learnset: {
+			tackle: ["9L1"]
+		}
 	}
 };

@@ -35,6 +35,8 @@ export const Formats: FormatList = [
 		banlist: ['All Pokemon', 'Baton Pass'],
 		unbanlist: [
 				'Dio',
+				'Killua',
+				'Luffy'
 		]
 	},
 	///////////////////////////////////////////////////////////////
