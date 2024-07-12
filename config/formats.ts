@@ -38,8 +38,8 @@ export const Formats: FormatList = [
 				'Killua',
 				'Luffy',
 				'Chopper',
-				'Nico Robin',
-				'Roronoa Zoro',
+				'Robin',
+				'Zoro',
 				'Nami'
 		]
 	},

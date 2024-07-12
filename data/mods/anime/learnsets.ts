@@ -29,7 +29,7 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			headbutt: ["9L1"]
 		}
 	},
-	nicorobin: {
+	robin: {
 		learnset: {
 			bind: ["9L1"],
 			wrap: ["9L1"],

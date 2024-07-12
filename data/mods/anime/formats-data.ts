@@ -8,7 +8,7 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	luffy: {
 		tier: "anime"
 	},
-	nicorobin: {
+	robin: {
 		tier: "anime"
 	},
 	chopper: {
