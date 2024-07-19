@@ -43,7 +43,7 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			knockoff: ["9L1"],
 			uturn: ["9L1"]
 		}
-	}
+	},
 	luffy: {
 		learnset: {
 			tackle: ["9L1"],
@@ -101,7 +101,7 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			icebeam: ["9L1"],
 			chillingwater: ["9L1"],
 		}
-	}
+	},
 	kurapika: {
 		learnset: {
 			calmmind: ["9L1"],
