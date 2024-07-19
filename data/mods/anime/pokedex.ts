@@ -19,6 +19,16 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		heightm: 1.7,
 		weightkg: 52.2,
 	},
+	gon: {
+		num: 8887,
+		name: "Gon",
+		types: ["Normal", "Fighting"],
+		genderRatio: {M: 1.0, F: 0.0},
+		baseStats: {hp: 60, atk: 100, def: 80, spa: 80, spd: 60, spe: 100},
+		abilities: {0: "Guts", H: "Justified"},
+		heightm: 1.7,
+		weightkg: 52.2,
+	},
 	luffy: {
 		num: 7777,
 		name: "Luffy",
@@ -68,5 +78,5 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		abilities: {0: "Drizzle"},
 		heightm: 1.7,
 		weightkg: 52.2,
-	}
+	},
 };

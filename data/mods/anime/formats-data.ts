@@ -20,4 +20,7 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	nami: {
 		tier: "anime"
 	},
+	gon: {
+		tier: "anime"
+	},
 };

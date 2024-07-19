@@ -65,5 +65,10 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			thunderbolt: ["9L1"],
 			surf: ["9L1"]
 		}
+	},
+	gon: {
+		learnset: {
+			
+		}
 	}
 };
