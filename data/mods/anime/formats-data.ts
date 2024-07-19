@@ -23,4 +23,13 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	gon: {
 		tier: "anime"
 	},
+	kurapika: {
+		tier: "anime"
+	},
+	netero: {
+		tier: "anime"
+	},
+	meruem: {
+		tier: "anime"
+	}
 };

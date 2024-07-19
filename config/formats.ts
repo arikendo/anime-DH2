@@ -40,7 +40,11 @@ export const Formats: FormatList = [
 				'Chopper',
 				'Robin',
 				'Zoro',
-				'Nami'
+				'Nami',
+				'Gon',
+				'Kurapika',
+				'Netero',
+				'Meruem'
 		]
 	},
 	///////////////////////////////////////////////////////////////
