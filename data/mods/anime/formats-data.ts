@@ -2,8 +2,17 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	dio: {
 		tier: "anime",
 	},
-	killua: {
-		tier: "anime",
+	joseph: {
+		tier: "anime"
+	},
+	jotaro: {
+		tier: "anime"
+	},
+	iggy: {
+		tier: "anime"
+	},
+	giorno: {
+		tier: "anime"
 	},
 	luffy: {
 		tier: "anime"
@@ -19,6 +28,9 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	},
 	nami: {
 		tier: "anime"
+	},
+	killua: {
+		tier: "anime",
 	},
 	gon: {
 		tier: "anime"

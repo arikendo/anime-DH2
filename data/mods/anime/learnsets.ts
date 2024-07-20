@@ -13,7 +13,50 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			toxic: ["9L1"],
 			recover: ["9L1"],
 			tackle: ["9L1"],
+			leechlife: ["9L1"],
+			freezedry: ["9L1"],
+			roaroftime: ["9L1"],
+			steamroller: ["9L1"],
 		},
+	},
+	joseph: {
+		learnset: {
+			psychic: ["9L1"],
+			leechseed: ["9L1"],
+			toxic: ["9L1"],
+			powerwhip: ["9L1"],
+			psychocut: ["9L1"]
+		}
+	},
+	jotaro: {
+		learnset: {
+			shadowpunch: ["9L1"],
+			roaroftime: ["9L1"],
+			bulletpunch: ["9L1"],
+			superpower: ["9L1"],
+			bulkup: ["9L1"]
+		}
+	},
+	iggy: {
+		learnset: {
+			earthquake: ["9L1"],
+			earthpower: ["9L1"],
+			sandstorm: ["9L1"],
+			scorchingsands: ["9L1"],
+			spikes: ["9L1"],
+			crunch: ["9L1"]
+		}
+	},
+	giorno: {
+		learnset: {
+			moonblast: ["9L1"],
+			playrough: ["9L1"],
+			dazzlinggleam: ["9L1"],
+			fairywind: ["9L1"],
+			aurasphere: ["9L1"],
+			leechseed: ["9L1"],
+			triplearrows: ["9L1"],
+		}
 	},
 	killua: {
 		learnset: {

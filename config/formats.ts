@@ -35,16 +35,20 @@ export const Formats: FormatList = [
 		banlist: ['All Pokemon', 'Baton Pass'],
 		unbanlist: [
 				'Dio',
-				'Killua',
+				'Joseph',
+				'Jotaro',
+				'Iggy',
+				'Giorno',
 				'Luffy',
 				'Chopper',
 				'Robin',
 				'Zoro',
 				'Nami',
 				'Gon',
+				'Killua',
 				'Kurapika',
 				'Netero',
-				'Meruem'
+				'Meruem',
 		]
 	},
 	///////////////////////////////////////////////////////////////
