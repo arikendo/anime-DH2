@@ -49,6 +49,10 @@ export const Formats: FormatList = [
 				'Kurapika',
 				'Netero',
 				'Meruem',
+				'Yuji',
+				'Megumi',
+				'Gojo',
+				'Toji'
 		]
 	},
 	///////////////////////////////////////////////////////////////

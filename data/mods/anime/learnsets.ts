@@ -184,5 +184,39 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			acrobatics: ["9L1"],
 			aerialace: ["9L1"]
 		}
-	}
+	},
+	yuji: {
+		learnset: {
+			closecombat: ["9L1"],
+			headbutt: ["9L1"],
+			shadowpunch: ["9L1"],
+			shadowsneak: ["9L1"]
+		}
+	},
+	megumi: {
+		learnset: {
+			outrage: ["9L1"],
+			dragonclaw: ["9L1"],
+			aerialace: ["9L1"],
+			acrobatics: ["9L1"],
+			shadowsneak: ["9L1"],
+		}
+	},
+	gojo: {
+		learnset: {
+			psychic: ["9L1"],
+			protect: ["9L1"],
+			safegaurd: ["9L1"],
+			shadowball: ["9L1"],
+			focusblast: ["9L1"],
+		}
+	},
+	toji: {
+		learnset: {
+			smartstrike: ["9L1"],
+			closecombat: ["9L1"],
+			machpunch: ["9L1"],
+			doubleedge: ["9L1"],
+		}
+	},
 };

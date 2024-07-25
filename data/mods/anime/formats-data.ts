@@ -43,5 +43,17 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	},
 	meruem: {
 		tier: "anime"
+	},
+	yuji: {
+		tier: "anime"
+	},
+	megumi: {
+		tier: "anime"
+	},
+	gojo: {
+		tier: "anime"
+	},
+	toji: {
+		tier: "anime"
 	}
 };
