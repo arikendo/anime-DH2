@@ -52,7 +52,13 @@ export const Formats: FormatList = [
 				'Yuji',
 				'Megumi',
 				'Gojo',
-				'Toji'
+				'Toji',
+				'Edward',
+				'Alphonse',
+				'Roy',
+				'Armstrong',
+				'Pride',
+				'Isaac'
 		]
 	},
 	///////////////////////////////////////////////////////////////

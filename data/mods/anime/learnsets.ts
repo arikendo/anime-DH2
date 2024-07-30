@@ -219,4 +219,46 @@ export const Learnsets: {[speciesid: string]: ModdedLearnsetData} = {
 			doubleedge: ["9L1"],
 		}
 	},
+	edward: {
+		learnset: {
+			smartstrike: ["9L1"],
+			closecombat: ["9L1"],
+			machpunch: ["9L1"],
+			slam: ["9L1"],
+		}
+	},
+	alphonse: {
+		learnset: {
+			heavyslam: ["9L1"],
+			closecombat: ["9L1"],
+			machpunch: ["9L1"],
+			doubleedge: ["9L1"],
+		}
+	},
+	roy: {
+		learnset: {
+			flamethrower: ["9L1"],
+			willowisp: ["9L1"],
+		}
+	},
+	armstrong: {
+		learnset: {
+			closecombat: ["9L1"],
+			doubleedge: ["9L1"],
+			earthquake: ["9L1"],
+		}
+	},
+	pride: {
+		learnset: {
+			earthquake: ["9L1"],
+			suckerpunch: ["9L1"],
+			knockoff: ["9L1"]
+		}
+	},
+	isaac: {
+		learnset: {
+			icebeam: ["9L1"],
+			freezedry: ["9L1"],
+		}
+	},
 };

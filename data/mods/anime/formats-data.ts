@@ -55,5 +55,23 @@ export const FormatsData: { [k: string]: ModdedSpeciesFormatsData} = {
 	},
 	toji: {
 		tier: "anime"
+	},
+	edward: {
+		tier: "anime"
+	},
+	alphonse: {
+		tier: "anime"
+	},
+	roy: {
+		tier: "anime"
+	},
+	armstrong: {
+		tier: "anime"
+	},
+	pride: {
+		tier: "anime"
+	},
+	isaac: {
+		tier: "anime"
 	}
 };
