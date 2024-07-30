@@ -212,7 +212,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 	roy: {
 		num: 6669,
 		name: "Roy",
-		types: ["Roy"],
+		types: ["Fire"],
 		genderRatio: {M: 1.0, F: 0.0},
 		baseStats: {hp: 80, atk: 130, def: 75, spa: 40, spd: 60, spe: 120},
 		abilities: {0: "Blaze"},
